@@ -2,9 +2,10 @@
 Peer-reviewed project for Getting &amp; Cleaning data course (week 4)
 
 Pre-requisites:
-1.	Download data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-2.	Unzip it into your working directory
-3.	Download run_analysis.R from this repo and run it on your machine.
+1.	dplyr package should be installed
+2.	Download data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+3.	Unzip it into your working directory
+4.  Download run_analysis.R from this repo and run it on your machine.
 
 The source data is divided into 2 groups: training data and testing data.
 
